@@ -1,5 +1,4 @@
--- Week 2 Assignment: Introduction to SQL
--- Database: sales
+USE sales;
 
 -- Question 1: Retrieve Payment Information
 SELECT checkNumber, paymentDate, amount 
